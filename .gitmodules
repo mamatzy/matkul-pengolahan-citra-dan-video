@@ -1,0 +1,9 @@
+[submodule "MP1_Image_Restoration"]
+	path = MP1_Image_Restoration
+	url = git@github.com:mamatzy/MP1_Image_Restoration.git
+[submodule "MP2_Object_Counting"]
+	path = MP2_Object_Counting
+	url = git@github.com:mamatzy/MP2_Object_Counting.git
+[submodule "project_handweapon"]
+	path = project_handweapon
+	url = git@github.com:mamatzy/project_handweapon.git
